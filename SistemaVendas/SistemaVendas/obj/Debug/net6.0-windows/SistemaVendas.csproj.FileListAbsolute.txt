@@ -1,0 +1,86 @@
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.exe
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.deps.json
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.runtimeconfig.json
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.AssemblyReference.cache
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.Form1.resources
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.GenerateResource.cache
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfoInputs.cache
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfo.cs
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\refint\SistemaVendas.dll
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.genruntimeconfig.cache
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\ref\SistemaVendas.dll
+C:\Users\ez\source\repos\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.Properties.Resources.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.exe
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.deps.json
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.runtimeconfig.json
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.Form1.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.Properties.Resources.resources
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.GenerateResource.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfoInputs.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfo.cs
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\refint\SistemaVendas.dll
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.genruntimeconfig.cache
+C:\Users\ezequ\OneDrive\Área de Trabalho\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\ref\SistemaVendas.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.exe
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.deps.json
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.runtimeconfig.json
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.FormVendas.resources
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.Properties.Resources.resources
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.CopyComplete
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\refint\SistemaVendas.dll
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\dados-trabalho\EZ\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\ref\SistemaVendas.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.exe
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.deps.json
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.runtimeconfig.json
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.FormVendas.resources
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.Properties.Resources.resources
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.GenerateResource.cache
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfoInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.AssemblyInfo.cs
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.csproj.CopyComplete
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\refint\SistemaVendas.dll
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.pdb
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\SistemaVendas.genruntimeconfig.cache
+C:\Users\ezequ\OneDrive\Documentos\Git\SistemaVendas\SistemaVendas\obj\Debug\net6.0-windows\ref\SistemaVendas.dll
